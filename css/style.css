@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Slab&family=Mr+De+Haviland&display=swap');
 
 body {
-    background-color: white;
+    background-color: #FFA559;
     margin: 0;
     font-family: 'Josefin Slab', serif;
     text-align: center;
@@ -59,7 +59,7 @@ p {
 .welcome-box {
     border:5px solid black;
     box-shadow: 0px 0px 1px black;
-    background-color: rgba(161, 161, 161, 0.6);
+    background-color: rgba(24, 23, 23, 0.87);
     
 }
 
@@ -70,6 +70,10 @@ p {
     flex-shrink: 1;
     padding: 30px 0;
     width: 300px;
+}
+
+.logo-img {
+    width: 600px;
 }
 /*Navigation classes */
 nav {
